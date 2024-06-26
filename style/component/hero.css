@@ -1,0 +1,42 @@
+
+
+.hero{
+    text-align: center;
+
+    margin-top: 10rem;
+}
+
+.hero__logo{
+    width: var(--size-9xl);
+    height: auto;
+
+    margin-inline: auto;
+}
+
+
+.hero__title{
+    font-size: var(--size-5xl);
+    font-weight: 600;
+    line-height: 1;
+
+    margin-top: 2.5rem;
+}
+
+.hero__description{
+    font-size: var(--size-xl);
+    font-weight: 400;
+    max-width: 50ch;
+
+    margin-top: 1rem;
+    margin-inline: auto;
+}
+
+.hero__btn{
+    font-size: var(--size-xl);
+
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+
+    margin-top: 3rem;
+}

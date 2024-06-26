@@ -1,0 +1,49 @@
+
+
+.about__description{
+    font-size: var(--size-xl);
+    font-weight: 400;
+    max-width: 50ch;
+
+    text-align: center;
+
+    margin-top: 1rem;
+    margin-inline: auto;
+}
+
+.about__product--computer{
+    width: 50%;
+    height: auto;
+    object-fit: contain;
+}
+
+.about__product{
+    display: flex;
+    gap: 3rem;
+
+    margin-top: 3rem;
+}
+
+.about__product--content{
+    margin-top: 4rem;
+}
+
+.about__product--title{
+    font-size: var(--size-2xl);
+    font-weight: 600;
+    line-height: 1;
+    margin-top: 2rem;
+}
+
+.about__product--description{
+    font-size: var(--size-lg);
+    font-weight: 400;
+
+    max-width: 35ch;
+
+    margin-top: 1rem;
+}
+
+.about__product--margin-top0{
+    margin-top: 0;
+}

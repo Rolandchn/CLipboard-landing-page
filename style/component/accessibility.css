@@ -1,0 +1,21 @@
+
+
+.accessibility__description{
+    font-size: var(--size-xl);
+    font-weight: 400;
+    max-width: 50ch;
+
+    text-align: center;
+
+    margin-top: 1rem;
+    margin-inline: auto;
+}
+
+.accessibility__device{
+    width: 50%;
+    height: auto;
+    object-fit: contain;
+
+    margin-top: 3rem;
+    margin-inline: auto;
+}

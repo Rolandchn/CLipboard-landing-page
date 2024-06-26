@@ -1,0 +1,16 @@
+
+
+.collaborators__logo--container{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;    
+
+    flex-wrap: wrap;
+}
+
+
+.collaborators__logo{
+    width: var(--size-9xl);
+    height: auto;
+    object-fit: contain;
+}
