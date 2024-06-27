@@ -68,6 +68,10 @@
     height: auto;
 }
 
-.footer__social--path:hover{
+.footer__social--path{
+    transition: fill 0.1s;
+}
+
+.footer__social:hover .footer__social--path{
     fill: var(--clr-strong-cyan);
 }
