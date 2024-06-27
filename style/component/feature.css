@@ -31,7 +31,7 @@
 }
 
 .feature__item--title{
-    font-size: var(--size-xl);
+    font-size: var(--size-2xl);
     font-weight: 600;
     margin-top: 1rem;
 }
