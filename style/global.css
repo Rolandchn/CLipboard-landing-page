@@ -116,3 +116,10 @@ body::-webkit-scrollbar-thumb {
     outline: grey;
 }
 
+
+
+@media (max-width: 768px){
+    body{
+        background-image: url(../images/bg-header-mobile.png);
+    }
+}
