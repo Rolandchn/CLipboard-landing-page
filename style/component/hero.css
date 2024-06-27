@@ -33,6 +33,7 @@
 
 .hero__btn{
     font-size: var(--size-xl);
+    font-weight: 600;
 
     display: flex;
     justify-content: center;
@@ -108,7 +109,6 @@
 
     .hero__description{
         max-width: 35ch;
-        
     }
     
     .hero__btn{
