@@ -84,6 +84,17 @@
 }
 
 
+.footer2{
+    background-color: var(--clr-darker-light-grayish-blue);
+}
+
+.footer2__attribut{
+    font-size: var(--size-sm);
+    color: var(--clr-dark-grayish-blue);
+    text-align: center;
+}
+
+
 @media (max-width: 1536px){}
 
 @media (max-width: 1280px){}

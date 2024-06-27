@@ -12,6 +12,7 @@
     --clr-dark-grayish-blue: hsl(210, 10%, 33%);
     --clr-grayish-blue: hsl(201, 11%, 66%);
     --clr-light-grayish-blue: hsla(201, 11%, 66%, 0.1);
+    --clr-darker-light-grayish-blue: hsla(201, 11%, 66%, 0.3);
 
     --clr-white: hsl(0, 100%, 100%);
     --clr-black: hsl(0, 100%, 0%);
