@@ -4,7 +4,7 @@
     background-color: var(--clr-light-grayish-blue);
 
     display: flex;
-    padding: 1rem;
+    padding: 2rem;
 }
 
 .footer__logo--container{
@@ -20,10 +20,9 @@
 .footer__link--container{
     flex: 1;
 
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(20ch, 1fr));
+    row-gap: 1rem;
 }
 
 .footer__link{
@@ -46,7 +45,7 @@
     justify-content: center;
     align-items: center;
 
-    gap: 1rem;
+    gap: 1.5rem;
 }
 
 .footer__social{

@@ -5,7 +5,7 @@
 }
 
 .cta__description{
-    font-size: var(--size-lg);
+    font-size: var(--size-xl);
     font-weight: 400;
     max-width: 60ch;
 
