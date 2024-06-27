@@ -48,13 +48,26 @@
     gap: 1.5rem;
 }
 
-.footer__social{
-    width: var(--size-xl);
-    height: auto;
-
+.footer__social--fac{
+    width: 24px;
+    height: 24px;
 }
 
-path:hover{
-    fill:red;
-  }
-  
+.footer__social--twi{
+    width: 24px;
+    height: 20;
+}
+
+.footer__social--ins{
+    width: 24px;
+    height: 24px;
+}
+
+.footer__social--icon{
+    width: var(--size-6xl);
+    height: auto;
+}
+
+.footer__social--path:hover{
+    fill: var(--clr-strong-cyan);
+}
