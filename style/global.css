@@ -118,7 +118,8 @@ body::-webkit-scrollbar-thumb {
 
 
 
-@media (max-width: 768px){
+
+@media (max-width: 640px){
     body{
         background-image: url(../images/bg-header-mobile.png);
     }
