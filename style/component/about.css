@@ -97,6 +97,10 @@
         margin-top: 3rem;
     }
 
+    .about__product--description{
+        margin-top: 0.5rem;
+    }
+
     .about__product--margin-top0{
         margin-top: 0;
     }
